@@ -1,4 +1,4 @@
-# Desafio SoftPlayer
+# SoftPlayer
 
 ## Tecnologias utilizadas
 ### Backend
